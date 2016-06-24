@@ -1,0 +1,115 @@
+SVN:liuchen6/C5n7S5H3
+local orcl db: 10.15.32.23/orcl  system Admin12345
+
+encode:
+http://www.cnblogs.com/skykang/archive/2011/06/02/2068802.html
+
+dabaoji: traffic/WNhPT6vV
+裸机可以用了，IP地址还是 10.15.48.49
+原来的 10.15.48.109 IP地址变更为 10.15.48.74 
+32.23: publicxtjt2/hik12345+
+
+
+https://192.0.0.241/EnApp-CustomPrj/卡口/iVMS-8600/12_重庆分公司/IPM20150625001彭水县智能交通平台监控项目/KF20151230_006
+
+https://192.0.0.75/Traffic/UrbanRoadTraffic/branches/重庆/JKN20150627_001彭水县智能交通平台监控项目/src/tmcp_web
+
+CMD>netstat -ano | findstr 8080
+CMD>taskkill /F /PID 1234
+
+
+设备IP：10.15.48.99  8000 系列网络硬盘录像机
+
+服务器： 10.15.34.18 存储管理服务器(VRM) 160413034334094123
+
+https://192.0.0.241/EnApp-CustomPrj/卡口/iVMS-8600/04_广州分公司/JKN20141207_006增城市公安局增城市高清交通违法抓拍系统建设采购项目
+https://192.0.0.75/Traffic/UrbanRoadTraffic/branches/长春/JKN20140326_16吉林省交警总队高速公路支队视频监控一期项目/V3.0.3/src/tmcp_web
+
+
+-Xms1024m -Xmx1024m -Xss1024k -XX:PermSize=192m -XX:MaxPermSize=384m -XX:ReservedCodeCacheSize=96m 
+
+
+10.15.34.22
+是否开启拦截预警
+关联拦截卡口
+
+
+组内：
+NVR：   10.15.32.210 hik12345
+球：	10.15.32.212 12345 当国标用
+	10.15.32.213 12345
+IPC：	10.15.32.214 hik12345
+	10.15.32.215 hik12345
+
+8000 系列网络硬盘录像机 10.15.48.99 
+
+kms 10.15.48.30 8099
+
+http://idea.qinxi1992.cn
+
+
+
+涉牌 admin/abc123++
+
+   \\10.15.48.31\3.x基线程序\资料 
+   administrator
+
+
+PCNVR路径 https://192.0.0.75/Traffic/UrbanRoadTraffic/branches/郑州/JKN20160307_104光山县高清监控、智能卡口系统项目/src/tmcp_web
+
+
+1.服务器类型可以添加KMS类型的
+2.动态抓拍可以选择KMS服务器
+
+关于网域配置的用法和作用
+
+10.15.48.42
+10.15.48.62 hik12345+
+
+DB
+10.15.48.14/orcl  
+system
+admin543210
+这个可以用
+
+
+D:\software\instantclient_12_1\instantclient_12_1
+
+  
+  48202 = 
+  (DESCRIPTION = 
+    (ADDRESS = (PROTOCOL = TCP)(HOST = 10.15.48.202)(PORT = 1521)) 
+    (CONNECT_DATA = 
+      (SERVER = DEDICATED) 
+      (SERVICE_NAME = orcl) 
+    ) 
+  ) 
+
+ 10.33.26.169/orcl system/oracle
+ 
+ 
+ https://192.0.0.241/EnApp-CustomPrj/卡口/iVMS-8600/28_郑州分公司/IPM20150824080郑州市公安局卡口平台项目（用于软件定制）/KF20160107_013/软件开发/程序
+ 
+ 车辆类型为1的表示大客车 vehicletype
+lihailong5(李海龙5) 06-12 17:04:11
+"1") //确认为危险品车,使用1标志
+lihailong5(李海龙5) 06-12 17:04:43
+未系安全带: 主副驾驶都没有系安全带 pilotsafebelt=1
+lihailong5(李海龙5) 06-12 17:05:22
+//遮阳板判断：主副驾驶有一个打开遮阳板就算打开遮阳板了 pilotsunvisor=2
+lihailong5(李海龙5) 06-12 17:05:37
+ //无车牌判断
+    //正常                0
+    //未识别              1
+    //无牌车              2
+    //三轮车等非机动车     3
+    //残缺                4
+    val vehicleSign = vehicleMap.get(Constants.VEHICLE_SIGN)
+    if (!"0".equals(vehicleSign)) { // 除过正常的,其他的都写入到oracle
+	
+	
+	
+	
+	
+	E:\app\liuchen6\product\11.2.0\dbhome_1
+	D:\software\instantclient_12_1\instantclient_12_1
